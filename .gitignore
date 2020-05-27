@@ -1,0 +1,4 @@
+tg_env/
+__pycache__/
+*.sqlite3
+tg_resource/
